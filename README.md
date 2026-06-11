@@ -1,2 +1,2 @@
 # encryption_playground
-play with different encryption protocols
+play with various encryption protocols
